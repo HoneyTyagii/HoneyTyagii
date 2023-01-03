@@ -1,31 +1,177 @@
-# 💫 About Me:
-🔭 I’m Currently Preparing For Internships and Placements.<br>🌱 I’m currently Exploring Full Stack Development and Machine Learning<br>🤔 Working on some good ML Stuffs.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/honey-tyagi/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Can travel anywhere right now
+<!-- Profiles Viewa and Visitor Views -->
+<div align="center">
+<img align="left" src="https://komarev.com/ghpvc/?username=HoneyTyagii&label=PROFILE+VIEWS">
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_honeytyagi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/honey-tyagi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/honey-tyagi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Honey__tyagi) 
+<br>
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HoneyTyagii&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HoneyTyagii&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTyagii&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HoneyTyagii&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<!-- Introduction in Typing -->
+<h1 align="center">
+  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Honey+Tyagi....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
+<br>
+
+
+<!-- Sankes Eating My Repo -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
+</div>
+
+
+<br>
+
+
+<!-- Social Media  -->
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/honey-tyagi/" title="LinkedIn Profile"><img width="35" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/_HoneyTyagi_/" title="Leetcode Profile"><img width="40" src="images/leetcode.svg"> Leetcode</a></code>
+  <code><a href="https://twitter.com/Honey__tyagi" title="Twitter Profile"><img width="40" src="images/twitter.svg"> Twitter</a></code>
+</h5>
+
+
+<br>
+<br>
+
+
+<!-- gif for programmers -->
+
+<div align="center">
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="290">
+<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="290">
+</div>
+
+
+
+<!-- Introduction About Me  -->
+<h3 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br>
+  <br>
+  I'm Honey Tyagi, Computer Engineer From India. 
+  <br>
+  <br>
+  💻 I love writing code and learn anythings about it.
+  <br>
+  <br>
+  🌱 I’m currently Exploring Mern Stack and Machine Learning
+  <br>
+  <br>
+  💬 Ask me about Good First Issues & Exciting projects to work on.
+  <br>
+  <br>
+  😄 Pronouns: He/His
+  <br>
+  <br>
+  ⚡ Fun fact: Can travel anywhere right now
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: honeyt290@gmail.com"> ✉️.
+</h3>
+
+
+<!-- My Frameworks And Abilities -->
+<hr>
+<h1 align="center">
+  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Luxi+Mono&color=%237BF700&size=29&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%94%A5+Languages+%26+Frameworks+%26+Tools+%26+Abilities+%F0%9F%94%A5">
+  </a>
+<p align="center">
+<code><img title="C" height="40" src="images/c.svg"></code>
+<code><img title="C++" height="40" src="images/cpp.svg"></code>
+<code><img title="C#" height="40" src="images/cSharp.svg"></code>
+<code><img title="Python" height="40" src="images/python-original.svg"></code>
+<code><img title="Django" height="40" src="images/django.png"></code>
+<code><img title="Javascript" height="40" src="images/javascript.svg"></code>
+<code><img title="Problem Solving" height="40" src="images/problemSolving.png"></code>
+<code><img title="HTML5" height="40" src="images/html5.svg"></code>
+<code><img title="CSS" height="40" src="images/css.svg"></code>
+<code><img title="SASS" height="40" src="images/sass.svg"></code>
+<!--   <code><img title="Gulp" height="30" src="images/gulp.svg"></code> -->
+<code><img title="React" height="40" src="images/react-original.svg"></code>
+<!--   <code><img title="Redux" height="30" src="images/redux.svg"></code> -->
+<code><img title="AngularJS" height="40" src="images/angularjs.png"></code>
+<code><img title="Git" height="40" src="images/git-original.svg"></code>
+<!--   <code><img title=".NetCore" height="30" src="images/dotnetcore.svg"></code> -->
+<!--   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code> -->
+<code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
+<code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
+<code><img title="JQuery" height="40" src="images/jquery-original.svg"></code>
+<code><img title="Java" height="40" src="images/java-original.svg"></code>
+<code><img title="JSON" height="40" src="images/json.svg"></code>
+<!--   <code><img title="Unity" height="30" src="images/unity3d.svg"></code> -->
+<!--   <code><img title="Android" height="30" src="images/android.svg"></code> -->
+<code><img title="GitHub" height="40" src="images/github.svg"></code>
+<code><img title="MySQL" height="40" src="images/mysql.svg"></code>
+<!--   <code><img title="npm" height="30" src="images/npm.svg"></code> -->
+<code><img title="PHP" height="40" src="images/php.svg"></code>
+<!--   <code><img title="Flask" height="30" src="images/flask.png"></code> -->
+</p>
+
+
+
+
+<hr>
+
+
+
+
+<!-- STATUS -->
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br>
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/HoneyTyagii?tab=repositories">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HoneyTyagii&theme=tokyonight_duo"/>
+    </a>
+    <a href="https://github.com/HoneyTyagii?tab=repositories">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HoneyTyagii&theme=github_dark&show_icons=true" />
+    </a>
+  </div>
+  
+<br><br><br><br>
+<br><br><br><br>
+
+  <div align=center>
+    <a href="https://github.com/HoneyTyagii?tab=repositories">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTyagii&layout=compact&langs_count=10&theme=github_dark">
+    </a>
+  </div>
+  
+  <br>
+
+</p>
+
+<br>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+  
+<!-- <h4 align="center">
+    <a href="https://github.com/HoneyTyagii">
+      <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
+    </a>
+</h4> -->
 
----
-[![](https://visitcount.itsvg.in/api?id=HoneyTyagii&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <a href="https://github.com/HoneyTyagii">
+      <img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+    </a>
+</div>
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/honeytyagi) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
   
