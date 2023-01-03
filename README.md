@@ -1,6 +1,5 @@
 <!-- Profiles Viewa and Visitor Views -->
 <div align="center">
-<img align="left" src="https://komarev.com/ghpvc/?username=HoneyTyagii&label=PROFILE+VIEWS">
 </div>
 
 
