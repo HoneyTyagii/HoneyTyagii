@@ -55,13 +55,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br>
   <br>
-  I'm Honey Tyagi, Computer Engineer From India. 
-  <br>
-  <br>
   💻 I love writing code and learn anythings about it.
-  <br>
-  <br>
-  🌱 I’m currently Exploring Mern Stack and Machine Learning
   <br>
   <br>
   💬 Ask me about Good First Issues & Exciting projects to work on.
