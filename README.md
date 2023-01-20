@@ -112,9 +112,13 @@
 
 
 <hr>
+  
+ **My Holopins and Badges**
+
+[![@honey_tyagi's Holopin board](https://holopin.me/honey_tyagi)](https://holopin.io/honey_tyagi)
 
 
-
+<hr>
 
 <!-- STATUS -->
 <h2 align="center">⚡ Stats ⚡</h2>
