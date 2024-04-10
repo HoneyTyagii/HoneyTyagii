@@ -31,7 +31,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/honey-tyagi/" title="LinkedIn Profile"><img width="35" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/_HoneyTyagi_/" title="Leetcode Profile"><img width="40" src="images/leetcode.svg"> Leetcode</a></code>
-  <code><a href="https://twitter.com/Honey__tyagi" title="Twitter Profile"><img width="40" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://twitter.com/iamhoneytyagi" title="Twitter Profile"><img width="40" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 
 
