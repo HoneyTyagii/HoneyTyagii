@@ -1,3 +1,11 @@
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)
+
 <!-- Profiles Viewa and Visitor Views -->
 <div align="center">
 </div>
@@ -171,4 +179,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/honeytyagi) 
 
  
-  
+ ![](flames.gif) 
