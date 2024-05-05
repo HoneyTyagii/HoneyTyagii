@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)<img src="party-furby.gif" align="right" width="60">
 
 <!-- Profiles Viewa and Visitor Views -->
 <div align="center">
