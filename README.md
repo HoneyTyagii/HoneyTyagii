@@ -27,9 +27,9 @@
 <br>
 
 
-<!-- Sankes Eating My Repo -->
+<!-- Snakes Eating My Repo -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
+    <img src="https://raw.githubusercontent.com/HoneyTyagii/HoneyTyagii/output/github-contribution-grid-snake-dark.svg" alt="Snakes Eating My Repo">
 </div>
 
 
@@ -137,7 +137,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/HoneyTyagii?tab=repositories">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HoneyTyagii&theme=tokyonight_duo"/>
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=HoneyTyagii&theme=tokyonight_duo" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/HoneyTyagii?tab=repositories">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HoneyTyagii&theme=github_dark&show_icons=true" />
