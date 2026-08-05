@@ -140,7 +140,7 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=HoneyTyagii&theme=tokyonight_duo" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/HoneyTyagii?tab=repositories">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HoneyTyagii&theme=github_dark&show_icons=true" />
+      <img align="right" width=390 src="https://github-readme-stats-ten-orpin-29.vercel.app/api?username=HoneyTyagii&theme=github_dark&show_icons=true" />
     </a>
   </div>
   
@@ -149,7 +149,7 @@
 
   <div align=center>
     <a href="https://github.com/HoneyTyagii?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyTyagii&layout=compact&langs_count=10&theme=github_dark">
+      <img width=325 align="center" src="https://github-readme-stats-ten-orpin-29.vercel.app/api/top-langs/?username=HoneyTyagii&layout=compact&langs_count=10&theme=github_dark">
     </a>
   </div>
   
